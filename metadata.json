@@ -1,0 +1,6 @@
+{
+  "name": "PeaceOS",
+  "description": "An AI-powered coordination platform helping authorities, NGOs, volunteers, and citizens collaborate during events, emergencies, and community incidents.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
